@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently interested in Machine Learning.
+- 🔭 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python Programming Language and Deep Learning.
 - 👯 I’m looking to collaborate on NLP projects.
 - 📫 How to reach me: 21kruti@gmail.com
