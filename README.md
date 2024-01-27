@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python Programming Language and Deep Learning.
 - 👯 I’m looking to collaborate on NLP projects.
 - 📫 How to reach me: 21kruti@gmail.com
-- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krutibagwe)](https://git.io/streak-stats)
+  
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=krutibagwe)](https://git.io/streak-stats) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=krutibagwe&theme=catppuccin-macchiato)](https://git.io/streak-stats)
