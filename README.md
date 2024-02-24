@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=krutibagwe)](https://git.io/streak-stats) -->
 
-<!-- - 🔭 I’m interested in Machine Learning.
+- 🔭 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python Programming Language and Deep Learning.
-- 👯 I’m looking to collaborate on Python projects.
+<!-- - 👯 I’m looking to collaborate on Python projects. -->
 - 📫 How to reach me: 21kruti@gmail.com
--->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=krutibagwe&theme=catppuccin-macchiato)](https://git.io/streak-stats)
