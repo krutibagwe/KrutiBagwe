@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python Programming Language and Deep Learning.
-- 📫 How to reach me: 21kruti@gmail.com
+- 📫 How to reach me: krutibagwe21@gmail.com
 
 <!-- - 👯 I’m looking to collaborate on Python projects. -->
 <!-- - 📫 How to reach me: 21kruti@gmail.com
